@@ -8,3 +8,7 @@ Data Connection
 WorkSheet
 Dashboard
 Story
+
+Sample project - Demographic population of California 
+
+
